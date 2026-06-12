@@ -15,44 +15,6 @@ Each lab includes investigation notes, findings, Indicators of Compromise (IOCs)
 
 
 
-- Indicators of Compromise (IOCs)
-- MITRE ATT&CK Techniques
-- Findings
-- Remediation Recommendations
-- Lessons Learned
-
----
-
-## Example Skills Applied
-
-### Threat Detection
-
-- Identified malicious processes
-- Investigated suspicious network activity
-- Analyzed attacker behavior
-
-### Incident Response
-
-- Performed alert triage
-- Determined attack scope
-- Documented incident timelines
-
-### Digital Forensics
-
-- Memory analysis
-- File system investigation
-- Artifact collection
-
-### Threat Intelligence
-
-- IOC extraction
-- Hash reputation analysis
-- Domain and IP investigation
-
----
-
-## Learning Goals
-
 This repository serves as a continuous record of my efforts to:
 
 - Strengthen SOC Analyst skills
