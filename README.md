@@ -12,24 +12,8 @@ Each lab includes investigation notes, findings, Indicators of Compromise (IOCs)
 
 
 
----
 
-## Tools & Technologies
 
-- Wireshark
-- NetworkMiner
-- Autopsy
-- Volatility
-- VirusTotal
-- CyberChef
-- Any.Run
-- Windows Event Viewer
-- Sysinternals Tools
-- Splunk
-- ELK Stack
-- Security Onion
-
----
 
 ## Repository Structure
 
