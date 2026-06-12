@@ -15,16 +15,6 @@ Each lab includes investigation notes, findings, Indicators of Compromise (IOCs)
 
 
 
-This repository serves as a continuous record of my efforts to:
-
-- Strengthen SOC Analyst skills
-- Improve threat hunting capabilities
-- Develop incident response expertise
-- Gain practical experience with forensic investigations
-- Understand real-world attack techniques
-
----
-
 ## Disclaimer
 
 These investigations are conducted within legal training environments provided by CyberDefenders. All content is intended for educational and professional development purposes only.
