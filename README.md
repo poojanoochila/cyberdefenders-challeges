@@ -16,6 +16,3 @@ Each lab includes investigation notes, findings, Indicators of Compromise (IOCs)
 
 
 
-
----
-⭐ If you find these investigations useful, feel free to explore the repository and follow my cybersecurity learning journey.
