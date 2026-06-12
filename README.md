@@ -10,20 +10,7 @@ Each lab includes investigation notes, findings, Indicators of Compromise (IOCs)
 
 ---
 
-## Skills Demonstrated
 
-- Security Event Analysis
-- Threat Hunting
-- Incident Response
-- Digital Forensics
-- Log Analysis
-- IOC Identification
-- Malware Investigation
-- Phishing Analysis
-- Network Traffic Analysis
-- Windows Event Log Analysis
-- MITRE ATT&CK Mapping
-- SIEM Investigation Techniques
 
 ---
 
