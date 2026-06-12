@@ -15,39 +15,6 @@ Each lab includes investigation notes, findings, Indicators of Compromise (IOCs)
 
 
 
-## Repository Structure
-
-```text
-CyberDefenders-Labs/
-│
-├── Lab-01/
-│   ├── README.md
-│   ├── Investigation_Report.md
-│   └── Evidence/
-│
-├── Lab-02/
-│   ├── README.md
-│   ├── Investigation_Report.md
-│   └── Evidence/
-│
-├── Lab-03/
-│   ├── README.md
-│   ├── Investigation_Report.md
-│   └── Evidence/
-│
-└── ...
-```
-
----
-
-## Lab Documentation Format
-
-Each lab folder contains:
-
-- Lab Overview
-- Objectives
-- Investigation Process
-- Evidence Collected
 - Indicators of Compromise (IOCs)
 - MITRE ATT&CK Techniques
 - Findings
