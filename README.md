@@ -60,10 +60,11 @@ Through these investigations, I aim to strengthen my knowledge in:
 
 # 📂 Challenge Write-ups
 
-| Challenge       | Category          | Primary Tool | Status |
-| --------------- | ----------------- | ------------ | :----: |
-| Insider         | Linux DFIR        | FTK Imager   |    ✅   |
-| Tomcat Takeover | Network Forensics | Wireshark    |    ✅   |
+| Challenge | Category | Primary Tool(s) | Focus Area | Status |
+|-----------|----------|-----------------|------------|:------:|
+| Insider | Linux DFIR | FTK Imager | Linux Forensics & User Activity Analysis | ✅ |
+| Tomcat Takeover | Network Forensics | Wireshark | Web Server Compromise Investigation | ✅ |
+| AWSRaid | Cloud Forensics | Splunk, AWS CloudTrail | Cloud Incident Response & IAM Investigation | ✅ |
 
 > More investigations will be added as I complete additional CyberDefenders labs.
 
