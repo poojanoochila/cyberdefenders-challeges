@@ -8,8 +8,7 @@
 
 ---
 
-# Overvie
-
+# Overview
 
 This repository documents my investigation process while completing the **AWSRaid** challenge on CyberDefenders.
 
