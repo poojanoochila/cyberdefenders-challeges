@@ -1,4 +1,4 @@
-# PsExec Hunt
+# PsExec Hun
 
 > **Network Forensics Investigation using Wireshark**
 
