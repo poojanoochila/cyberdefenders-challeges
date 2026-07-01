@@ -1,4 +1,4 @@
-# CyberDefenders – PsExec Hunt
+# PsExec Hunt
 
 > **Network Forensics Investigation using Wireshark**
 
