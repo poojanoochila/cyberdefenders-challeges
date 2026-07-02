@@ -1,4 +1,4 @@
-# CyberDefenders – GrabThePhisher
+# GrabThePhisher
 
 > **Threat Intelligence Investigation of a Cryptocurrency Phishing Kit**
 
