@@ -1,4 +1,4 @@
-# CyberDefenders – Yellow RAT
+# Yellow RAT
 
 > **Cyber Threat Intelligence Investigation using VirusTotal, Hybrid Analysis & OSINT**
 
