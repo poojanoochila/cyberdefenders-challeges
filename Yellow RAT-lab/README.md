@@ -1,4 +1,4 @@
-# Yellow RAT
+# Yellow RAT Lab
 
 > **Cyber Threat Intelligence Investigation using VirusTotal, Hybrid Analysis & OSINT**
 
