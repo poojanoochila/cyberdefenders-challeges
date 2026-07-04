@@ -1,4 +1,4 @@
-# IcedID
+# IcedID Lab
 
 > **Cyber Threat Intelligence Investigation using VirusTotal, MITRE ATT&CK, Tria.ge & OSINT**
 
