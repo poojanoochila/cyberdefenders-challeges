@@ -1,4 +1,4 @@
-# CyberDefenders – IcedID
+# IcedID
 
 > **Cyber Threat Intelligence Investigation using VirusTotal, MITRE ATT&CK, Tria.ge & OSINT**
 
