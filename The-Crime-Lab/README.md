@@ -1,4 +1,4 @@
-# CyberDefenders – The Crime Lab
+# The Crime Lab
 
 > **Android Endpoint Forensics Investigation using ALEAPP & SQLite Analysis**
 
