@@ -1,4 +1,4 @@
-# C– DanaBot
+# – DanaBot
 
 > **Network Forensics & Threat Intelligence Investigation using Wireshark**
 
