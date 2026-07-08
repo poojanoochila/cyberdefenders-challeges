@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-CyberDefenders-blue)
 ![Category](https://img.shields.io/badge/Category-Endpoint%20Forensics-green)
-![Tool](https://img.shields.io/badge/Tool-Volatility%203%20%7C%20VirusTotal-orange)
+![Tool](https://img.shields.io/badge/Tool-Volatility,VirusTotal%203%20%7C%20IPinfo-orange)
 
 ---
 
