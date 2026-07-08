@@ -30,6 +30,7 @@ My objective was to examine the memory image, identify malicious processes, reco
 
 * Volatility 3
 * VirusTotal
+* IPinfo
 * SHA1 Hash Utilities
 * Threat Intelligence Platforms
 * Linux Terminal
