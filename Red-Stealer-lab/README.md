@@ -1,4 +1,4 @@
-# CyberDefenders – Red Stealer
+# Red Stealer
 
 > **Threat Intelligence Investigation using VirusTotal, MalwareBazaar & ThreatFox**
 
