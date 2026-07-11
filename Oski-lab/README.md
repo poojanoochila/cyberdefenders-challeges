@@ -1,4 +1,4 @@
-# Oski
+# Oski Lab
 
 > **Threat Intelligence Investigation using VirusTotal, Recorded Future Tria.ge, ANY.RUN & MITRE ATT&CK**
 
