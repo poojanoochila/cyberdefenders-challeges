@@ -1,4 +1,4 @@
-# Ramnit La
+# Ramnit Lab
 
 > **Endpoint Memory Forensics Investigation using Volatility 3 & Threat Intelligence**
 
