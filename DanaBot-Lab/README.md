@@ -1,4 +1,4 @@
-# DanaBo
+# DanaB
 > **Network Forensics & Threat Intelligence Investigation using Wireshark**
 
 ![Platform](https://img.shields.io/badge/Platform-CyberDefenders-blue)
