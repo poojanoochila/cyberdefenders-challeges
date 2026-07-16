@@ -1,4 +1,4 @@
-#  CyberDefenders Challenge
+#  CyberDefenders Challenges
 
 > **A collection of my CyberDefenders investigations documenting practical Digital Forensics, Incident Response (DFIR), Network Forensics, Malware Analysis, and SOC investigation methodologies.**
 
