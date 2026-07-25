@@ -1,4 +1,3 @@
-
 # RedLine — CyberDefenders
 
 > **Platform:** CyberDefenders
