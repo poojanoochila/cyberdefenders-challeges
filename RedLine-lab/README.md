@@ -1,4 +1,4 @@
-RedLine
+
 # RedLine — CyberDefenders
 
 > **Platform:** CyberDefenders
