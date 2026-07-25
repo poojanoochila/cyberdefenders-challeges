@@ -1,4 +1,4 @@
-# RedLine — Cyber
+# RedLine — 
 
 > **Platform:** CyberDefenders
 > **Category:** Digital Forensics / Memory Forensics / Malware Analysis
