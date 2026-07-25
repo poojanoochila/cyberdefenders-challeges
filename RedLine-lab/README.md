@@ -1,6 +1,5 @@
 # RedLine — Lab
 
-
 > **Platform:** CyberDefenders
 > **Category:** Digital Forensics / Memory Forensics / Malware Analysis
 > **Focus:** Memory Analysis / Incident Investigation / DFIR
