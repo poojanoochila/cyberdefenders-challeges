@@ -1,4 +1,4 @@
-# Dana Bot L
+# Dana Bot 
 
 > **Network Forensics & Threat Intelligence Investigation using Wireshark**
 
